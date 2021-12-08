@@ -2,3 +2,4 @@ Modificando
 Criando alterações
 Só para
 Validar
+Agora testando comando pull
